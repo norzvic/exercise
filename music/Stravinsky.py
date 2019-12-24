@@ -10,3 +10,5 @@ import os
 # Open url
 html = urlopen("https://en.wikipedia.org/wiki/List_of_compositions_by_Igor_Stravinsky").read()
 
+print(html)
+
